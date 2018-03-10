@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="status">SERVER CONNCTED</string>
+        <display name="display">
+            WELCOME TO INSTAGRAM
+        </display>
+</resources>
